@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Write a Python script that, 
+Write a Python script that,
 using this REST
 """
 import csv
